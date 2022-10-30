@@ -7,7 +7,7 @@ I'm Guilherme, a senior Android engineer working at [iti Itaú](https://www.link
 Feel free to check my projects:
 
 ## [Poké Themes](https://github.com/guichristovao/poke-themes)
-An Android project to showcase a multi-brand design system.
+An Android project to showcase a multi-brand design system with snapshot testing.
 
 ## [App Startup](https://github.com/guichristovao/app-startup)
 An Android project implementing some good practices on starting an app.
